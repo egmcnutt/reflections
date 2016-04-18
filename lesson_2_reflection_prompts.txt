@@ -9,6 +9,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+different experiments with different aspects and files is made easier by using new branches
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches show a log of changes made during different experimental phases in development.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
